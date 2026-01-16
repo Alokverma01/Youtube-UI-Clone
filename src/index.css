@@ -3,11 +3,12 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: oklch(16.842% 0.00002 271.152);
 }
 
 @theme {
-  --color-primary: oklch(14.5% 0 0);
+  /* --color-primary: oklch(14.5% 0 0); */
   /* --color-primary: oklch(20.5% 0 0); */
-  --color-secondary: oklch(43.9% 0 0);
-  --color-text-color: oklch(98.5% 0 0);
+  /* --color-secondary: oklch(43.9% 0 0); */
+  /* --color-text-color: oklch(98.5% 0 0); */
 }
